@@ -25,3 +25,10 @@ It generates a student report card by taking input for student details and marks
 ---
 
 ## 🧠 Sample Output
+--- Student Report Card ---
+Name: Saim Kazmi
+Roll No: 101
+Marks: [85, 76, 92, 88, 95]
+Total: 436
+Percentage: 87.2
+Grade: B
